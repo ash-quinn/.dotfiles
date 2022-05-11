@@ -1,0 +1,16 @@
+#Applications
+alias nano="micro"
+alias k="kubectl"
+
+#Kubernetes
+alias kg="k get"
+alias ke="k edit"
+alias kd="k delete"
+alias ka="kubectl apply -f"
+alias kp="kubectl port-forward"
+
+# Utilities
+alias l="ls"
+alias la="ls -la"
+alias cls="clear"
+alias cfg="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
